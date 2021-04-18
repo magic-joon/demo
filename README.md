@@ -5,4 +5,4 @@ Adding some text
 
 # adding some text to write
 
-just some updates, on a branch
+I hope it is not the problem , solve conflict
